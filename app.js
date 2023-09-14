@@ -10,13 +10,7 @@ const port = 3000;
 
 
 app.use(express.json());
-const bodyParser = require("body-parser");
-// app.use(bodyParser.json())
-// app.use(
-//     bodyParser.urlencoded({
-//         extended: true,
-//     })
-// )
+
 
 app.use('/insert-data',insertData);
 app.use('/users',getdata)
