@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cliqmetrics-364911",
+  "private_key_id": "da82a8acf44f57595b237e9fa9939bf98371c166",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDO23VZrprhw1E3\nEtF1TUKkAD+QFrQTaMB+BLglOYHi/8itsuPmJzHHYUysLcwaSq/9AaOM8ea1MiW3\n9sdhWD5KcDLQkIs8CcdBuM5TK/waHn6bR+hGXoVp9MYc+vxeDWJRviEPMm/+hBJJ\nQNWNg84EfU4NykZrvD8S6eB2o7vzNYLCZ4sKDkEJcrVBzxTbRvFySSErT7uvhDzo\nh+SOTYsT56R78y8frkxl6o1Qhjs3nHHxJt7Libnio3dOBLUWQhCGs9Ky3BmfPqG0\nQwm9/GISFCAxe7j08dATMbDC65xs4WCc7RSnz0Q1XfH3F6/tr5XX+sX/bQ6rvAA8\nnu0a+ljjAgMBAAECggEAZuZinOcvoqi/iM7ypRB22xBIjkvM7m7IeqesVtAhnaMx\n175Kgh3zNERhmLD7fAS1QP2Et0NKSc6VVssK6ZC1A+CGVpvgt1AB796XvGX/9Zo/\nzszZbc/tPAUIXDg6PCsaQqF63o1visN2OTxoPwpW/IK8xj1eBI/TLHxtLXdLsrKA\n8uIC3Uo1Qg1oyFQkJC/p+p2qzmsbbBdlNYjXWW5NoNlM4bRdXVyvsn0M+RJ1Ce85\ncIyAfSCHNiS7PlscYKS1IBaiHjtHubqGIRgvRIT3c2daEuDjRS4oDO/O+oXNhkCi\nNrR63VtYZWpyiJPnB6XF6M7XPxR+FHmDdybEkA3ZAQKBgQD7Lphh9quGhmYXNY/T\njtzl7gcQRIbYI1jJqpYz0BP1UVyIuFib96563UpGcNHUwtrU8Kee/iCer2gGBWz1\nAb0O/txKmOIvwzle6X0ZIjHZ4SC/mRl4+atOQmhOb2CgEQIKbRqBGeIbPz1LQAFi\nx07BrSwBXSsu18DxYJmHHyxvYwKBgQDS0zX1s8HRen4edk/J7gTHD+Lx9Dyc2YjA\nXrZXi03YEsHny8rD5CEq7OedBdtRAf1aMcms1GYwt/a63Gnmy4WYw4/uRYv2fny6\n8kzh8T+O7wG8X6pTuOUMMyX/U7emicruogo0/uIdCw5E1VTjl47jJS/vTBP1mnTR\n1xR8PTJogQKBgQDBeyjh/RIu84PcSOPbAGbjrjA+tapw/vk7jm1Yx+U3yE5Q+j83\nFNiPx7mY/PqEuvu5nw5fCD20PkUQrkk5iPdKf8LMq2s/g0/D7nLwU0i3HhUNwS6/\n4wGzrK+QC3cQlUlPIq+R1pA2kMX0Gv92STQ/N9d3zX6f/I2g4NoiHT8rJQKBgFoC\nKqt3z2vr7CR9Rptjr059jdrW93nPtf7LcPX3V4jEmVypOSxhHXgCJPB5K6VuQAhd\n8UiEdgyevgwRRnVutt79v1lu/86BOidmg0SDhyszB36xKTsNWVzYCYT07ReBBM7V\nB56Qo2Da84CXw+JXNn3rxodX572X8AAW33wbdIYBAoGBAKYw2I30JV7pS24OWgSB\nxjSj653fJPSKfqYzaEU3U2zV0RinsLh3+USDQrh3CGg9kdCxb5/frFrUw54cODQa\n5SFUUKd0VVYLTjASpbU5JxAhIKcLdT8UEEkew2Z2dkD3/y04OPC2/JfafUABaGeO\nteXMWdN6/6AZTBU2586FU+Ox\n-----END PRIVATE KEY-----\n",
+  "client_email": "developer-service-account@cliqmetrics-364911.iam.gserviceaccount.com",
+  "client_id": "103703344800769757539",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/developer-service-account%40cliqmetrics-364911.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
